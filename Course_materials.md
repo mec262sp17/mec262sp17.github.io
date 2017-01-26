@@ -14,6 +14,7 @@ All documents for the course page are available on course repository on [github]
 
 | Date     | Description | Course links |
 | :----------: | :--------------------------------------: | :--------: | 
-|       1/26/2017    |   Vectors review | [Slides: Vectors](https://mec262sp17.github.io/Presentations/Review_vectors.html#/)  [Extra: Linear algebra review](2016/08/29/LinAlg_Review_Mbook/),[Extra: Least-square fitting](2016/08/29/Least_SQ_Fitting/),              | 
+| | | |
+|       1/26/2017    |   Vectors review | [Slides: Vectors](https://mec262sp17.github.io/Presentations/Review_vectors.html#/)           | 
 | | | |
 |       1/31/2017    |    Introduction to Dynamics |  [Slides: Intro to Dynamics](https://mec262sp17.github.io/Presentations/Ch1_Intro_to_Dynamics.html#/)             | 
