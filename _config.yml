@@ -1,0 +1,17 @@
+# Site settings
+title: MEC 560's home page
+email: 
+description: "Course material for MEC 560: Advanced Control Systems taught at Stony Brook University by Dr. Vivek Yadav"
+baseurl: ""
+url: "http://vxy10.github.io"
+github_username:  vxy10
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+highlighter: rouge
+kramdown:
+  input: GFM
+  auto_ids: true
+  syntax_highlighter: rouge
