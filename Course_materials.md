@@ -15,6 +15,6 @@ All documents for the course page are available on course repository on [github]
 | Date     | Description | Course links |
 | :----------: | :--------------------------------------: | :--------: | 
 | | | |
-|       1/26/2017    |   Vectors review | [Slides: Vectors](https://mec262sp17.github.io/Presentations/Review_vectors.html#/)           | 
+|       1/26/2017    |   Vectors review | [Slides: Vectors](https://mec262sp17.github.io/Presentations/Review_vectors.html#/) , [Slides PDF](https://mec262sp17.github.io/Presentations/Review_vectors.pdf)         | 
 | | | |
 |       1/31/2017    |    Introduction to Dynamics |  [Slides: Intro to Dynamics](https://mec262sp17.github.io/Presentations/Ch1_Intro_to_Dynamics.html#/)             | 
