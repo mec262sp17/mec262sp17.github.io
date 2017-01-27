@@ -363,6 +363,7 @@ $$ \vec{a} = a_x \hat{i}+a_y \hat{j}+a_z \hat{k} $$$$ \vec{b} = b_x \hat{i}+b_y 
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
+<h4 id="Geometric-method:">Geometric method:<a class="anchor-link" href="#Geometric-method:">&#182;</a></h4><p>Geometric method, to compute different of two vectors, move vectors so the tails of the vectors are aligned, and connect head of the vector to be subtracted to the head of the other vector.</p>
 <p><img src='images/diff_vec.gif'></p>
 
 </div>
@@ -421,6 +422,61 @@ $$ \overrightarrow {a} \circ \overrightarrow {b} = a_x b_x + a_y b_y + a_z b_z $
 </ul>
 $$ \vec{a} \times \vec{b} = |\vec{a}||\vec{b}| sin(\theta) \hat{u}_{a,b}  $$<p></p>
 <p>\(  \hat{u}_{a,b} \) is a unit vector perpendicular to both \( \vec{a} \) and \( \vec{b}\)</p>
+
+</div>
+</div>
+</div></section></section><section><section>
+<div class="cell border-box-sizing text_cell rendered">
+<div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h3 id="Right-hand-rule-for-cross-product">Right hand rule for cross product<a class="anchor-link" href="#Right-hand-rule-for-cross-product">&#182;</a></h3><ol>
+<li>Align fingers along the first vector, while placing the base of the palm at the intersection of the two vectors. </li>
+<li>Curl fingers towards the second vector. </li>
+<li>The direction of cross product is given by the direction of the thumb. </li>
+</ol>
+<p><img src='images/RHRule_CP.jpeg'></p>
+
+</div>
+</div>
+</div></section></section><section><section>
+<div class="cell border-box-sizing text_cell rendered">
+<div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h2 id="Cross-product-of-unit-vectors">Cross product of unit vectors<a class="anchor-link" href="#Cross-product-of-unit-vectors">&#182;</a></h2><p>Cross product of unit vectors can be obtained using the cycle below.</p>
+<ul>
+<li>Cross product of a vector by itself is zero. </li>
+<li>Cross product of a vector by another vector is equal to the third vector in the cycle, and the sign is determined by direction of rotation. If moving anti/counter-clockwise then positive, if clockwise then negative. </li>
+</ul>
+$$ \hat{i} \times \hat{i} = 0, ~\hat{j} \times \hat{j} = 0, ~\hat{k} \times \hat{k} = 0  $$<p></p>
+$$ \hat{i} \times \hat{j} = \hat{k}, ~\hat{j} \times \hat{k} = \hat{i}, ~\hat{k} \times \hat{i} = \hat{j}  $$<p></p>
+$$ \hat{j} \times \hat{i} = -\hat{k}, ~\hat{k} \times \hat{j} = -\hat{i}, ~\hat{i} \times \hat{k} = - \hat{j}  $$<p></p>
+<p><img src='images/unit_vectors_cycle.png'></p>
+
+</div>
+</div>
+</div></section></section><section><section>
+<div class="cell border-box-sizing text_cell rendered">
+<div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h2 id="Direct-computation-of-cross-product.">Direct computation of cross product.<a class="anchor-link" href="#Direct-computation-of-cross-product.">&#182;</a></h2><p>Given two vectors</p>
+$$ \vec{a} = a_x \hat{i}+a_y \hat{j}+a_z \hat{k} $$$$ \vec{b} = b_x \hat{i}+b_y \hat{j}+b_z \hat{k} $$<p>The cross product can be computed as,</p>
+$$ \vec{a} \times \vec{b} = (a_x \hat{i}+a_y \hat{j}+a_z \hat{k}) \times ( b_x \hat{i}+b_y \hat{j}+b_z \hat{k} ) $$$$ = a_x \hat{i} \times ( b_x \hat{i}+b_y \hat{j}+b_z \hat{k} ) + a_y \hat{i} \times ( b_x \hat{i}+b_y \hat{j}+b_z \hat{k} ) + a_z \hat{i} \times ( b_x \hat{i}+b_y \hat{j}+b_z \hat{k} ) $$<p>Using formulas from previous slide for cross products of unit vectors,</p>
+$$ = (a_yb_z - a_z b_y) \hat{i} - (a_z b_x - a_x b_z) \hat{j} + (a_x b_y - a_y b_x) \hat{k} $$
+</div>
+</div>
+</div></section></section><section><section>
+<div class="cell border-box-sizing text_cell rendered">
+<div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h3 id="Cross-product-using-matrix-form">Cross product using matrix form<a class="anchor-link" href="#Cross-product-using-matrix-form">&#182;</a></h3><p><img src='images/VectProd3D.gif'></p>
 
 </div>
 </div>
