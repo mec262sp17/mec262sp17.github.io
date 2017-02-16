@@ -25,6 +25,8 @@ All documents for the course page are available on course repository on [github]
 | | | |
 |       2/9/2017    |    NO CLASS |       | 
 | | | |
-|       2/14/2017    |    Force and Acceleration | [Slides: Force and Acceleration](https://mec262sp17.github.io/Presentations/Ch3_Force_and_Acceleration.html#/)[PDF: Force and Acceleration](https://mec262sp17.github.io/Presentations/Ch3_Force_and_Acceleration.pdf)      | 
+|       2/14/2017    |    Force and Acceleration | [Slides: Force and Acceleration](https://mec262sp17.github.io/Presentations/Ch3_Force_and_Acceleration.html#/), [PDF: Force and Acceleration](https://mec262sp17.github.io/Presentations/Ch3_Force_and_Acceleration.pdf), [Examples](https://mec262sp17.github.io/Notes/examples_2142017_mec262.pdf)       | 
+| | | |
+|       2/16/2017    |    Force and Acceleration (contd) | [Slides: Force and Acceleration](https://mec262sp17.github.io/Presentations/Ch3_Force_and_Acceleration.html#/)[PDF: Force and Acceleration](https://mec262sp17.github.io/Presentations/Ch3_Force_and_Acceleration.pdf), [Examples](https://mec262sp17.github.io/Notes/examples_2162017_mec262.pdf)             | 
 
 
