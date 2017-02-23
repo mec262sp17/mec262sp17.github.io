@@ -315,7 +315,6 @@ a.anchor-link {
 <li>Dynamic friction \( F = \mu_k N \), when there is motion between the surfaces</li>
 </ul>
 <p><img src='images/Friction_vs_force.png'></p>
-<p>NOTE: Friction is a scalar relation, not vector. Therefore, if a negative value is obtained for friction force, we recheck the assumptions that led to a negative value. NEVER assume that the friction force acts in the opposite direction. Prone to error.</p>
 
 </div>
 </div>
@@ -346,9 +345,6 @@ a.anchor-link {
 <li>Tension acting via rope or cable can only apply pulling force, not pushing force. </li>
 <li>Tension is the same at all points in a cable, assuming massless cable and frictionless pulleys</li>
 </ul>
-        
-<p>IMPORTANT: While applying tension laws, accelerations must be computed by incorporating appropriate geometric contraints</p>
-
 
 </div>
 </div>
@@ -409,9 +405,94 @@ $$ \sum F_n = m a_n = m \frac{v^2}{\rho} $$<p></p>
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
+<h3 id="Axis-for-Normal-tangential-system">Axis for Normal-tangential system<a class="anchor-link" href="#Axis-for-Normal-tangential-system">&#182;</a></h3><ol>
+<li>\( \hat{u}_t \) is along the direction of velocity of the particle</li>
+<li>\( \hat{u}_n \) is pointed towards the center of the osculating circle. </li>
+</ol>
+
+</div>
+</div>
+</div></section></section><section><section>
+<div class="cell border-box-sizing text_cell rendered">
+<div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
 <h4 id="3.-Polar-coordinate-systems">3. Polar coordinate systems<a class="anchor-link" href="#3.-Polar-coordinate-systems">&#182;</a></h4>$$ \sum F_r = m a_r = m ( \ddot{r} - r \omega^2)$$<p></p>
 $$ \sum F_\theta = m a_\theta = m ( r \ddot{\theta} + 2 \dot{r} \dot{\theta}) $$<p></p>
 <p><img src='images/polar.jpg'></p>
+
+</div>
+</div>
+</div></section></section><section><section>
+<div class="cell border-box-sizing text_cell rendered">
+<div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h3 id="Axis-for-Polar-system">Axis for Polar system<a class="anchor-link" href="#Axis-for-Polar-system">&#182;</a></h3><ol>
+<li>\( \hat{u}_r \) is pointed from origin to the particle's location. </li>
+<li>\( \hat{k} \) is pointed along the direction of positive angle</li>
+<li>\( \hat{u}_\theta \) is computed as cross product of \( \hat{k} \) and \( \hat{u}_r \)</li>
+</ol>
+<p>If the above conditions hold,</p>
+$$ \vec{a} = ( \ddot{r} - \omega^2 r) \hat{u}_r + ( r \ddot{\theta} - 2 \dot{ \omega} \dot{r}) \hat{u}_\theta $$<p></p>
+
+</div>
+</div>
+</div></section></section><section><section>
+<div class="cell border-box-sizing text_cell rendered">
+<div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h3 id="System-of-particles">System of particles<a class="anchor-link" href="#System-of-particles">&#182;</a></h3><p>Derive equations of motion for multiple particles under action of an external force and internal forces.</p>
+<p><img src='images/sys_particles.jpg'></p>
+
+</div>
+</div>
+</div></section></section><section><section>
+<div class="cell border-box-sizing text_cell rendered">
+<div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>Assumptions:</p>
+<ul>
+<li>Internal forces act between the particles</li>
+<li>External forces are acted upon the particles by an external force</li>
+<li>\( \vec{F}_{ij} \) represents force of particle \(j\) acting on \(i\). </li>
+</ul>
+$$ \vec{F}_{ij} = - \vec{F}_{ji} $$
+</div>
+</div>
+</div></section></section><section><section>
+<div class="cell border-box-sizing text_cell rendered">
+<div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h3 id="Newton-law-for-system-of-particles">Newton law for system of particles<a class="anchor-link" href="#Newton-law-for-system-of-particles">&#182;</a></h3>$$ \sum F_i = m_i \vec{a}_i $$<p></p>
+$$ F_i + \sum_{i \neq j} F_{ij} = m_i \vec{a}_i $$<p></p>
+<p>Adding for all particles gives,</p>
+$$ \sum_{particles}F + \sum_{particles} \sum_{i \neq j} F_{ij} = \sum_{particles}m_i \vec{a}_i $$<p></p>
+<p>As internal forces are equal and opposite, they add up to zero.</p>
+$$ \sum_{particles}F  = \sum_{particles}m_i \vec{a}_i $$<p></p>
+
+</div>
+</div>
+</div></section></section><section><section>
+<div class="cell border-box-sizing text_cell rendered">
+<div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>Define a point called center of mass such that,</p>
+$$ \sum_{particles}F  = \sum_{particles}m_i \vec{a}_i = \left(\sum m_i  \right) \vec{a}_{cm}$$<p></p>
+<p>Rewriting above equation gives,</p>
+$$ \vec{a}_{cm} = \frac{\sum m_i \vec{a}_i}{\sum m_i} $$<p></p>
+<p>\( \vec{a}_{cm} \) is acceleration of a point</p>
+$$ \vec{r}_{cm} = \frac{\sum m_i \vec{r}_i}{\sum m_i} $$<p></p>
 
 </div>
 </div>
