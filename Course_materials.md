@@ -34,6 +34,11 @@ All documents for the course page are available on course repository on [github]
 |       2/24/2017    |    Force and Acceleration (contd) | [Exam-1 Review](https://mec262sp17.github.io/Notes/review_documents.pdf)  |
 | | | |
 |       2/28/2017    |    Force and Acceleration (contd) | [Exam-1 Review](https://mec262sp17.github.io/Notes/review_documents.pdf)  , [Recitation5_27thfeb](https://mec262sp17.github.io/Notes/Recitation5_27thfeb.pdf)          |
+| | | |
+|       2/3/2017    |    Exam review | [Exam-1 Review examples](https://mec262sp17.github.io/Notes/examples_3_2_2017_mec262.pdf)   |
+
+
+
 
 
 
