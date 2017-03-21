@@ -39,7 +39,9 @@ All documents for the course page are available on course repository on [github]
 | | | |
 |       3/7/2017    |    Exam 1 |       | 
 | | | |
-|       3/9/2017    |   Work Energy principles | [Slides: FWork Energy Principles](https://mec262sp17.github.io/Presentations/Ch4_work_energy_Principle.html#/), [Examples: 3/9/2017](https://mec262sp17.github.io/Notes/examples_3_9_2017_mec262.pdf)    |
+|       3/9/2017    |   Work Energy principles | [Slides: Work Energy Principles](https://mec262sp17.github.io/Presentations/Ch4_work_energy_Principle.html#/), [Examples: 3/9/2017](https://mec262sp17.github.io/Notes/examples_3_9_2017_mec262.pdf)    |
+| | | |
+|       3/21/2017    |   Work Energy principles | [Slides: Work Energy Principles-II](https://mec262sp17.github.io/Presentations/Ch4_work_energy_Principle_II.html#/),    |
 
 
 
