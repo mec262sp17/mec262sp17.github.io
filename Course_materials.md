@@ -44,6 +44,8 @@ All documents for the course page are available on course repository on [github]
 |       3/21/2017    |   Work Energy principles | [Slides: Work Energy Principles-II](https://mec262sp17.github.io/Presentations/Ch4_work_energy_Principle_II.html#/),    |
 | | | |
 |       3/23/2017    |   Work Energy principles | [Slides: Work Energy Principles-III](https://mec262sp17.github.io/Presentations/Ch4_work_energy_Principle_III.html#/),  [Slides: Momentum and Impulse](https://mec262sp17.github.io/Presentations/Ch5_Momentum_and_Impulse.html#/),    |
+| | | |
+|       3/30/2017    |   Momentum and Impulse-II | [Slides: Slides: Momentum and Impulse-II](https://mec262sp17.github.io/Presentations/Ch5_Momentum_and_Impulse_II.html#/),  Planar rigid body kinematics [Slides: Planar rigid body kinematics](https://mec262sp17.github.io/Presentations/Ch6_Kinematics_of_Planar_Rigid_bodies.html#/),    |
 
 
 
