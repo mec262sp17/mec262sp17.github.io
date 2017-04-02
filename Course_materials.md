@@ -41,11 +41,11 @@ All documents for the course page are available on course repository on [github]
 | | | |
 |       3/9/2017    |   Work Energy principles | [Slides: Work Energy Principles](https://mec262sp17.github.io/Presentations/Ch4_work_energy_Principle.html#/), [Examples: 3/9/2017](https://mec262sp17.github.io/Notes/examples_3_9_2017_mec262.pdf)    |
 | | | |
-|       3/21/2017    |   Work Energy principles | [Slides: Work Energy Principles-II](https://mec262sp17.github.io/Presentations/Ch4_work_energy_Principle_II.html#/),    |
+|       3/21/2017    |   Work Energy principles | [Slides: Work Energy Principles-II](https://mec262sp17.github.io/Presentations/Ch4_work_energy_Principle_II.html#/),  [Examples: 3/21/2017](https://mec262sp17.github.io/Notes/examples_3_21_2017_mec262.pdf)     |
 | | | |
-|       3/23/2017    |   Work Energy principles | [Slides: Work Energy Principles-III](https://mec262sp17.github.io/Presentations/Ch4_work_energy_Principle_III.html#/),  [Slides: Momentum and Impulse](https://mec262sp17.github.io/Presentations/Ch5_Momentum_and_Impulse.html#/),    |
+|       3/23/2017    |   Work Energy principles | [Slides: Work Energy Principles-III](https://mec262sp17.github.io/Presentations/Ch4_work_energy_Principle_III.html#/),  [Slides: Momentum and Impulse](https://mec262sp17.github.io/Presentations/Ch5_Momentum_and_Impulse.html#/),  [Examples: 3/23/2017](https://mec262sp17.github.io/Notes/examples_3_23_2017_mec262.pdf)      |
 | | | |
-|       3/30/2017    |   Momentum and Impulse-II | [Slides: Slides: Momentum and Impulse-II](https://mec262sp17.github.io/Presentations/Ch5_Momentum_and_Impulse_II.html#/),  Planar rigid body kinematics [Slides: Planar rigid body kinematics](https://mec262sp17.github.io/Presentations/Ch6_Kinematics_of_Planar_Rigid_bodies.html#/),    |
+|       3/30/2017    |   Momentum and Impulse-II | [Slides: Slides: Momentum and Impulse-II](https://mec262sp17.github.io/Presentations/Ch5_Momentum_and_Impulse_II.html#/),  Planar rigid body kinematics [Slides: Planar rigid body kinematics](https://mec262sp17.github.io/Presentations/Ch6_Kinematics_of_Planar_Rigid_bodies.html#/),    [Examples: 3/30/2017](https://mec262sp17.github.io/Notes/examples_3_30_2017_mec262.pdf)    |
 
 
 
