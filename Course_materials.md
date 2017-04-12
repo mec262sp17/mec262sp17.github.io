@@ -48,7 +48,7 @@ All documents for the course page are available on course repository on [github]
 |       3/30/2017    |   Momentum and Impulse-II | [Slides: Slides: Momentum and Impulse-II](https://mec262sp17.github.io/Presentations/Ch5_Momentum_and_Impulse_II.html#/),  Planar rigid body kinematics [Slides: Planar rigid body kinematics](https://mec262sp17.github.io/Presentations/Ch6_Kinematics_of_Planar_Rigid_bodies.html#/),    [Examples: 3/30/2017](https://mec262sp17.github.io/Notes/examples_3_30_2017_mec262.pdf)  , [HW4: Due 4/11/2017 at 8:30 am](https://mec262sp17.github.io/Homework2017/HW4_due4112017.pdf)  |
 |       4/4/2017    |   Planar rigid body kinematics | [Slides: Planar rigid body kinematics](https://mec262sp17.github.io/Presentations/Ch6_Kinematics_of_Planar_Rigid_bodies.html#/)  ,  [Examples: 4/4/2017](https://mec262sp17.github.io/Notes/examples_4_4_2017_mec262.pdf)      |
 | | | |
-|       4/6/2017    |   Planar rigid body kinematics | [Slides: Planar rigid body kinematics](https://mec262sp17.github.io/Presentations/Ch6_Kinematics_of_Planar_Rigid_bodies.html#/)  ,  [Examples: 4/6/2017](https://mec262sp17.github.io/Notes/examples_4_6_2017_mec262.pdf)      |
+|       4/6/2017    |   Planar rigid body kinematics | [Slides: Planar rigid body kinematics](https://mec262sp17.github.io/Presentations/Ch6_Kinematics_of_Planar_Rigid_bodies.html#/)  ,  [Examples: 4/6/2017](https://mec262sp17.github.io/Notes/examples_4_6_2017_mec262.pdf)     , [HW4: Solutions](https://mec262sp17.github.io/Homework2017/Homework4Solutions.pdf)  |
 | | | |
 |       4/11/2017    | Newton-Euler methods for  Planar rigid body  | [Slides: Newton-Euler methods for  Planar rigid body](https://mec262sp17.github.io/Presentations/Ch7_NewtonEuler_Planar_Rigid_Body.html#/)  |
 
