@@ -50,8 +50,8 @@ All documents for the course page are available on course repository on [github]
 | | | |
 |       4/6/2017    |   Planar rigid body kinematics | [Slides: Planar rigid body kinematics](https://mec262sp17.github.io/Presentations/Ch6_Kinematics_of_Planar_Rigid_bodies.html#/)  ,  [Examples: 4/6/2017](https://mec262sp17.github.io/Notes/examples_4_6_2017_mec262.pdf)     , [HW4: Solutions](https://mec262sp17.github.io/Homework2017/Homework4Solutions.pdf)  |
 | | | |
-|       4/11/2017    | Newton-Euler methods for  Planar rigid body  | [Slides: Newton-Euler methods for  Planar rigid body](https://mec262sp17.github.io/Presentations/Ch7_NewtonEuler_Planar_Rigid_Body.html#/)  |
-
+|       4/11/2017    | Newton-Euler methods for  Planar rigid body  | [Slides: Newton-Euler methods for  Planar rigid body](https://mec262sp17.github.io/Presentations/Ch7_NewtonEuler_Planar_Rigid_Body.html#/)  ,  [Examples: 4/11/2017](https://mec262sp17.github.io/Notes/examples_4_11_2017_mec262.pdf)  |
+| | | |
 
 
 
