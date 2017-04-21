@@ -57,6 +57,7 @@ All documents for the course page are available on course repository on [github]
 | | | |
 | 4/20/2017    | Exam2 Review  |  [Examples: 4/20/2017](https://mec262sp17.github.io/Notes/examples_4_20_2017_mec262.pdf)  , [Recitation10_17thApr](https://mec262sp17.github.io/Notes/Recitation10_17thApr.pdf) , [Solution InClass Example](https://mec262sp17.github.io/Notes/inClass_solution.pdf)  |
 | | | |
+| 4/20/2017    | Exam2   |    |
 
 
 
