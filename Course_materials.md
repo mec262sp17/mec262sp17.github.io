@@ -62,7 +62,7 @@ All documents for the course page are available on course repository on [github]
 | 4/27/2017    | Final exam Review  |  [Slides: Newton-Euler methods for  Planar rigid body](https://mec262sp17.github.io/Presentations/Ch7_NewtonEuler_Planar_Rigid_Body.html#/) , [Examples: 4/27/2017](https://mec262sp17.github.io/Notes/examples_4_27_2017_mec262.pdf) 
 | | | |
 | 5/2/2017    | Final exam Review  | [Slides: Newton-Euler methods for  Planar rigid body](https://mec262sp17.github.io/Presentations/Ch7_NewtonEuler_Planar_Rigid_Body.html#/) ,  [Examples: 5/2/2017](https://mec262sp17.github.io/Notes/examples_5_2_2017_mec262.pdf) 
-| 5/4/2017    | Final exam Review  |  [Recitation11_1st May](https://mec262sp17.github.io/Notes/Recitation11_1st May.pdf) ,  [Examples: 5/4/2017](https://mec262sp17.github.io/Notes/examples_5_4_2017_mec262.pdf) 
+| 5/4/2017    | Final exam Review  |  [Recitation11_1stMay](https://mec262sp17.github.io/Notes/Recitation11_1stMay.pdf) ,  [Examples: 5/4/2017](https://mec262sp17.github.io/Notes/examples_5_4_2017_mec262.pdf) 
 | | | |
 
 
